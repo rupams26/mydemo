@@ -1,1 +1,5 @@
 index.html  test1.txt  test2.txt  test3.txt
+i checked out to NewBranch, created test3.txt there to see if it is 
+added to the master branch, as i merged NewBranch to master branch.
+but i had to merge again both the branches as test3.txt was not added to
+the master branch.
